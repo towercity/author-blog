@@ -6,10 +6,10 @@
 name: Sinking City Blog
 
 # Short bio or description (displayed in the header)
-description: Monthly updates from a sinking city
+description: Updates from a sinking city
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/sinkingcity.png
+avatar: "{{ site.baseurl }}images/sinkingcity.png"
 
 #
 # Flags below are optional
