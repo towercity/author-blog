@@ -12,6 +12,7 @@ description: Updates from a sinking city
 avatar: http://www.sinkingcitylitmag.com/blog/images/sinkingcity.png
 
 paginate: 2
+paginate_path: "/page_:num/"
 
 #
 # Flags below are optional
