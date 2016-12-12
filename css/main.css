@@ -79,11 +79,14 @@ article p {
 	color: black;
 }
 .post-end {
-	margin: 0 5vw;
+	margin: 0 2vw;
     width: 33vw;
     height: 1px;
     background-color: black;
     border: none;
+}
+.pagination {
+	margin: 12px 2vw;
 }
 .pagination a {
 	color: black;
