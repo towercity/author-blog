@@ -79,6 +79,9 @@ article p {
 	font-size: 10px;
 	color: black;
 }
+.post-divider {
+	margin: 10px 0;
+}
 .post-end {
 	margin: 0 2vw;
     width: 33vw;
