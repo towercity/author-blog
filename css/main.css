@@ -58,6 +58,7 @@ header {
 }
 .title {
 	font-weight: lighter;
+	text-transform: capitalize;
 }
 article p {
 	text-align: justify;
