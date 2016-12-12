@@ -73,7 +73,7 @@ article p {
 	text-transform: capitalize;
 }
 .entry p {
-    margin-bottom: 2.5px;
+	margin-bottom: 2.5px;
 }
 .read-more {
 	font-size: 10px;
@@ -84,14 +84,18 @@ article p {
 }
 .post-end {
 	margin: 0 2vw;
-    width: 33vw;
-    height: 1px;
-    background-color: black;
-    border: none;
+	width: 33vw;
+	height: 1px;
+	background-color: black;
+	border: none;
 }
 .pagination {
 	margin: 12px 2vw;
 }
 .pagination a {
 	color: black;
+}
+.biopic {
+	float: left;
+	margin-right: 10px;
 }
