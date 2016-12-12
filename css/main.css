@@ -64,6 +64,7 @@ article p {
 }
 .post {
 	margin-bottom: 25px;
+	margin-top: 10px;
 }
 .post-title {
 	text-decoration: none;
@@ -76,6 +77,13 @@ article p {
 .read-more {
 	font-size: 10px;
 	color: black;
+}.
+.post-end {
+	margin: 0 5vw;
+    width: 33vw;
+    height: 1px;
+    background-color: black;
+    border: none;
 }
 .pagination a {
 	color: black;
