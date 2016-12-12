@@ -96,6 +96,6 @@ article p {
 	color: black;
 }
 .biopic {
-	float: left;
-	margin-right: 10px;
+	float: right;
+	margin-left: 10px;
 }
