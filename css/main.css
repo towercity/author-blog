@@ -90,7 +90,7 @@ article p {
 	border: none;
 }
 .pagination {
-	margin: 12px 2vw;
+	margin: 12px 0;
 }
 .pagination a {
 	color: black;
