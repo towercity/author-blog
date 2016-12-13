@@ -9,7 +9,7 @@ name: Jacob Konger - Blog
 description: Updates from the author
 
 paginate: 5
-paginate_path: "/page_:num/"
+paginate_path: "/blog/page_:num/"
 
 #
 # Flags below are optional
