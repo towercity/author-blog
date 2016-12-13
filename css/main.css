@@ -102,4 +102,5 @@ article p {
 .biopic {
 	float: right;
 	margin-left: 10px;
+	width: auto;
 }
