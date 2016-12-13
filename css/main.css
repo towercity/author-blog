@@ -99,7 +99,7 @@ article p {
 .pagination a {
 	color: black;
 }
-.biopic {
+img.biopic {
 	float: right;
 	margin-left: 10px;
 	width: auto;
